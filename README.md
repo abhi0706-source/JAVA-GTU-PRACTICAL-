@@ -1,2 +1,2 @@
 # JAVA-GTU-PRACTICAL-
-All the GTU practical program will be upload regularly 
+All the GTU practical program will be upload 
